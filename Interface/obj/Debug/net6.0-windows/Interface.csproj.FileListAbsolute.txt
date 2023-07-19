@@ -1,0 +1,116 @@
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\bin\Debug\net6.0-windows\Interface.exe
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\bin\Debug\net6.0-windows\Interface.dll
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\bin\Debug\net6.0-windows\Interface.pdb
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\App.g.cs
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface_MarkupCompile.cache
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface_MarkupCompile.lref
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\MainWindow.baml
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.g.resources
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.dll
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.pdb
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+D:\Учеба\СИБ ГИУ\III Курс\Практика\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Control.g.cs
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\DefectList.g.cs
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Frozen.g.cs
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Procatniy_Ceh.g.cs
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Interface_MarkupCompile.cache
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Interface_MarkupCompile.lref
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+C:\Users\Алина\Downloads\Pracika-main\Pracika-main\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.csproj.AssemblyReference.cache
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Control.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\DefectList.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Frozen.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Procatniy_Ceh.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Reseption.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Unloading.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface_MarkupCompile.cache
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface_MarkupCompile.lref
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.dll
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\refint\Interface.dll
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.pdb
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Interface.exe
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Interface.deps.json
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Interface.runtimeconfig.json
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Interface.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Interface.pdb
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Control.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\DefectList.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Frozen.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Procatniy_Ceh.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Reseption.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Unloading.baml
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.g.resources
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfoInputs.cache
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.AssemblyInfo.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.csproj.CoreCompileInputs.cache
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.genruntimeconfig.cache
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\ref\Interface.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Interface.csproj.CopyComplete
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Defect.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Defect.baml
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\RabbitMQ.Client.dll
+C:\Users\Kamin\Downloads\1\Interface\bin\Debug\net6.0-windows\System.Threading.Channels.dll
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Log.g.cs
+C:\Users\Kamin\Downloads\1\Interface\obj\Debug\net6.0-windows\Log.baml
